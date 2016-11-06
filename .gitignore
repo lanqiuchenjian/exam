@@ -5,4 +5,6 @@ Desktop.ini
 .settings/*
 .settings
 target
+*.iml
+.idea/
 .classpath

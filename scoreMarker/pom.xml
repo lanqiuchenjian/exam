@@ -8,7 +8,6 @@
 		<version>2.0.0</version>
 	</parent>
 	<artifactId>ScoreMarker</artifactId>
-	<packaging>jar</packaging>
 	<name>ScoreMarker</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
